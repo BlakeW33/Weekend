@@ -12,25 +12,56 @@ ul{
 	border-style: double;
 	border-color: orange;
 	color: white;
-
+	width: 400px;
+	height:300px;
+	float:left;
 }
 #list2{
 	border-width: 2;
 	border-style: double;
 	border-color: yellow;
 	color: white;
+	width: 400px;
+	height: 300px;
+	float:left;
 }
 #list3{
 	border-width: 2;
 	border-style: double;
 	border-color: white;
 	color: white;
+	width: 400px;
+	height: 300px;
+	float: left;
 }
 #list4{
 	border-width: 2;
 	border-style: double;
 	border-color: orange;
 	color: white;
+	width: 400px;
+	height: 300px;
+	float: left;
+}
+#list5{
+	border-width: 2;
+	border-style: double;
+	border-color: yellow;
+	color: white;
+	width: 400px;
+	height: 300px;
+	float:left;
+}
+#list6{
+	border-width: 2;
+	border-style: double;
+	border-color: white;
+	color: white;
+	width: 400px;
+	height: 300px;
+	float: left;
+
+}
 
 
 
